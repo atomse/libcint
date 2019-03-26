@@ -1,8 +1,11 @@
-libcint
+# libcint
 =======
+
 
 version 3.0.15
 2019-03-18
+
+[![Build Status](https://travis-ci.org/atomse/pyscf.svg?branch=master)](https://travis-ci.org/atomse/pyscf)
 
 
 What is libcint
